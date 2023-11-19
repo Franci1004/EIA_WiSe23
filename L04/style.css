@@ -1,0 +1,25 @@
+html{
+    background-color: #a9d4f1; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    ;top: 50px;
+    left: 20px; 
+    width: 200px;
+    height: 180px;
+    text-align: center;
+    margin-left: 600px;
+    font-size: large; position:absolute 
+
+}
+div{
+    color: black;
+}
+
+#intro1 {
+   margin-right: 0px ;
+}
+#intro2 {
+    margin-left: 0px;
+}
+
+#intro3 {
+    margin-left: 0px ;
+}
