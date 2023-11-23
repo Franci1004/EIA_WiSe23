@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(226, 155, 192);
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
+
+#div1 {
+    width: 850px;
+    height: 250px;
+    background-color: rgba(196, 206, 255, 0.585);
+    position: absolute;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+
+}
+
+#div2 {
+    width: 430px;
+    height: 360px;
+    background-color: rgba(104, 90, 152, 0.475);
+    position: absolute;
+    height: 25%;
+    right: 0%;
+    top: 0%;
+    
+}
+
+#div3 {
+
+    width: 430px;
+    height: 250px;
+    background-color: rgba(165, 22, 197, 0.682);
+    position: absolute;
+    height: 51%;
+    top: 50%;
+    right: 0%;
+
+}
+
